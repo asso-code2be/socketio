@@ -1,0 +1,7 @@
+{
+  "appService.zipIgnorePattern": [
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/48f339b1-6e5a-49d8-8cff-35da023bbba9/resourceGroups/socketio/providers/Microsoft.Web/sites/code2be-socketio",
+  "appService.deploySubpath": ""
+}
